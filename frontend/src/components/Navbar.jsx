@@ -30,8 +30,7 @@ const styles = {
   },
   link: {
     textDecoration: "none",
-    color: "#fff"
-
+    color: "#fff",
   }
 }
 
